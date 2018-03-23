@@ -145,7 +145,7 @@ $ aplay out.wav
   Project Id: lofty-ivy-192309
   Device Type: action.devices.types.LIGHT
   No traits
-```
+  ```
 
 ##### 7. Google assistant SDK 다운로드
 
